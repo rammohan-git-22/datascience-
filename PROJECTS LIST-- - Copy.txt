@@ -1,0 +1,54 @@
+FULL-STACK DATASCIENCE @ 10:00 AM
+*********************************
+TASK-0 :: 118 Pages  you must complete
+TASK-1 :: Python Basic Code Practise (Class Session) 
+TASK-2 :: Python Data Structures (Class Session)
+Task-3 :: Github,Linkedin,stack,hackerrank ---------> VERY VERY IMPORTANT TO EVERYONE
+***********************************************************************************
+Project-1 :: Matrix Visualization (Class Session)
+Project-2 :: https://scipy.github.io/old-wiki/pages/Numpy_Example_List.html
+Project-3 :: Pandas DataFrame (Class Session)
+Project-4 :: https://www.kaggle.com/harunshimanto/pandas-with-data-science-ai 
+Project-5 :: https://www.kaggle.com/getting-started/111712   ---->> (Matplotlib & Seaborn)
+Project-6 :: Movie rating Analysis
+Project-7 :: Iris data visulization
+Project-8 :: Bank risk analysis (RESUME PROJECTS) ---> UPTO YOU (30 days)
+Project-9 :: SQl  to extract raw data then we make connection to jupyter
+Project-10 :: https://www.kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners/notebook ( MATPLOTLIB)
+Project-11 :: https://www.kaggle.com/code/prashant111/extensive-analysis-visualization-with-python/notebook (EDA)
+Project-12 :: https://www.kaggle.com/code/prashant111/seaborn-tutorial-for-beginners/notebook (SEABORN)
+Project-13 :: https://www.kaggle.com/saurav9786/descriptive-statistics 
+***********************************************************************************
+Project-14 :: Data preprocessing (Class work) 
+Project-15 :: https://www.kaggle.com/anirban7/data-preprocessing-for-beginners 
+Project-16 :: Simple Linear regression algorithm (Class work)
+Project-17 :: https://www.kaggle.com/mayanksrivastava/predict-housing-prices-simple-linear-regression
+Project-18 :: Multiple Linear regression algorithm ( Class work)
+Project-19 :: https://www.kaggle.com/divan0/multiple-linear-regression (House price prediction::2)
+Project-20 :: Polynomial regression ( Non-linear)
+Project-21 :: Support vector regressor
+Project-22 :: Decissio tree regression
+Project-23 :: Random forest regression
+Project-24 :: https://www.kaggle.com/sasha18/lasso-ridge-regularization/comments#713349
+Project-25 :: COMPLETE REGRESSION WITH BUSINESS CASE STUDY
+   		Task:1 - https://www.kaggle.com/mohammedmurtuzalabib/pandas-101-one-stop-shop-for-data-science
+   		Task:2 - https://www.kaggle.com/ladylittlebee/linreg-knn-svr-decisiontreerandomforest-timeseries
+   		Task:3 - https://www.kaggle.com/zarahshibli/avocado-price-regression
+   		Task:4 - https://www.kaggle.com/ayushikaushik/comparison-of-all-regression-models
+Project-26 :: Logistic regression
+Project-27 :: https://www.kaggle.com/code/prashant111/eda-logistic-regression-pca
+Project-28 :: SVM(SUPPORT VECTOR MACHINE)
+Project-29 :: https://www.kaggle.com/code/prashant111/svm-classifier-tutorial
+Project-30 :: KNN (class work)
+Project-31 :: https://www.kaggle.com/code/prashant111/knn-classifier-tutorial
+Project-32 :: Naive Bayes algorithm (Class work)
+Project-33 :: https://www.kaggle.com/code/prashant111/naive-bayes-classifier-in-python
+
+
+
+
+
+
+
+
+ 
